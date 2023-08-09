@@ -15,6 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/rackkkham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rackkkham" height="30" width="40" /></a>
 <a href="https://instagram.com/rackkkham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rackkkham" height="30" width="40" /></a>
+<a href="https://t.me/rackkkham" target="blank"><img align="center" 
+src="https://static.vecteezy.com/system/resources/previews/023/986/562/original/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png"
+alt="rackkkham" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
