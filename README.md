@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, folks 🙌🏻</h1>
+<h1 align="center">Hey there 🙌🏻</h1>
 <h3 align="center">I'm Garik, a passionate future developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cutewallpaper.org/28/cyber-wallpaper-gif/cybersecurity-building-a-secure-digital-society.gif">
