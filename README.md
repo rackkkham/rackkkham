@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML & CSS**
 
-- 💬 Ask me about **JS**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **garikamirkhanyan@yahoo.com**
 
