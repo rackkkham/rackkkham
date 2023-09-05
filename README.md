@@ -32,5 +32,6 @@ alt="rackkkham" height="40" width="40" /></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/2048px-Adobe_Premiere_Pro_Logo.svg.png" alt="PremierePro" width="40" height="40"/> </a> 
-  <a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"> <img src="https://ourworldinfocus.com/wp-content/uploads/2020/07/Adobe-Lightroom.png" alt="lightroom" width="40" height="40"/> </a>   
+  <a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"> <img src="https://ourworldinfocus.com/wp-content/uploads/2020/07/Adobe-Lightroom.png" alt="lightroom" width="40" height="40"/> </a>
+  <a href="https://www.image-line.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/dbugnFB.png" alt="lightroom" width="40" height="40"/> </a>   
 </p>
